@@ -17,7 +17,7 @@
   ],
   "author": "Vojta Jina <vojta.jina@gmail.com>",
   "dependencies": {
-    "phantomjs": "~1.9"
+    "phantomjs": "https://github.com/goddabuzz/phantomjs-1/tarball/master"
   },
   "peerDependencies": {
     "karma": ">=0.9"
